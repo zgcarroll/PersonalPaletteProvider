@@ -26,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/workspaces/PersonalPaletteProvider/PaletteProvider/Pages/PaletteFinal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFsZXR0ZUZpbmFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/workspaces/PersonalPaletteProvider/PaletteProvider/Pages/PaletteShowcase.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGFsZXR0ZVNob3djYXNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
